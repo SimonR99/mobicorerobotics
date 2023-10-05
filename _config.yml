@@ -10,48 +10,31 @@ description: "MobiCore Robotics is a pioneer"
 # Team names, titles and social links
 people:
 - name: David Caron
-  pic: 1
-  position: Lead Designer
+  pic: david_caron
+  position: CEO
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/david-caron-b97955175/
 
 - name: Kevin Larochelle
-  pic: 2
-  position: Lead Marketer
+  pic: kevin_larochelle
+  position: Directeur mécanique
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/kevin-larochelle/
 
 - name: Amber Louie
-  pic: 3
-  position: Lead Developer
+  pic: amber_louie
+  position: Directeur électronique et système
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
+    - title: linkedin
+      url: https://www.linkedin.com/in/amber-louie-4137b91a9/
 - name: Simon Roy
-  pic: 3
-  position: Lead Developer
+  pic: simon_roy
+  position: CTO
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/simonroy99/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
